@@ -143,6 +143,7 @@ if __name__ == '__main__':
     lll.print()
     lll.remove_by_value('three_1')
     lll.print()
+    lll.print()
 
 
 
